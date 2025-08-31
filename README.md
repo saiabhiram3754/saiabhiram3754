@@ -86,7 +86,7 @@ I’m always eager to <i>learn, adapt, and contribute</i> to impactful projects.
 
 ---
 
-🔗 [*NeoLearn - LMS Platform*](https://github.com/your-github-username/NeoLearn)  
+🔗 [*NeoLearn - LMS Platform*](https://github.com/saiabhiram3754/Team-Apex)  
 📌 An **interactive Learning Management System** built using **MERN Stack**.  
 
 **Key Features:** Video lectures, assignments, quizzes, student progress tracking, admin & instructor modules.  
