@@ -133,7 +133,7 @@ I’m always eager to <i>learn, adapt, and contribute</i> to impactful projects.
   <a href="https://github.com/saiabhiram3754" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:saiabhiram29@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
