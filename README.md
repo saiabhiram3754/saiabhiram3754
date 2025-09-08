@@ -88,5 +88,3 @@ I’m always eager to <i>learn, adapt, and contribute</i> to impactful projects.
 </div>
 
 ---
-
-> **"The best way to predict the future is to build it." — Alan Kay**
